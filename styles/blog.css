@@ -4,3 +4,10 @@
     color: rgb(180, 114, 16);
     background-color: navajowhite;
 }
+.show{
+    background-color: aquamarine ;
+    border: 5%;
+    border-radius: 5%;
+    margin: 10px;
+    padding: 0%;
+}
